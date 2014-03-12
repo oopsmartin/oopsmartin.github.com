@@ -17,8 +17,8 @@
   <body>
 
       <header>
-        <h1>This is oopsmartin's page</h1>
-        <!--<p>This is oopsmartin's page</p>-->
+        <h1>oopsmartin's page</h1>
+        <p>This is oopsmartin's page</p>
       </header>
 
       <div id="banner">
